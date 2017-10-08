@@ -6,23 +6,23 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Syllabus 
 
 1. **First order optimization** - derivative, partial derivative, convexity  
-     [ ] SVM Classification with gradient descent
+     - [ ] SVM Classification with gradient descent
 2. **Second order optimization** - Jacobian, hessian, laplacian  
-     [ ] Newtons method for logistic regression
+     - [ ] Newtons method for logistic regression
 3. **Vectors** - Vector spaces, vector norms, matrices  
-     [ ] K Means Clustering Algorithm
+     - [ ] K Means Clustering Algorithm
 4. **Matrix operations** - Dot product, matrix inverse, projections  
-     [ ] Convolutional Neural Network
+     - [ ] Convolutional Neural Network
 5. **Dimensionality Reduction** - matrix decomposition, eigenvectors, eigenvalues  
-     [ ] Recurrent Neural Network
+     - [ ] Recurrent Neural Network
 6. **Probability Theory** - Bayes Theorem, Naive Bayes, Laplace Smoothing   
-     [ ] Random Forests 
+     - [ ] Random Forests 
 7. **Hyperparameter Optimization** - Bayesian vs Frequentist, Distributions, Bayesian Optimization  
-     [ ] Gaussian Mixture Models
+     - [ ] Gaussian Mixture Models
 8. **Stochastic Models** - Generative Networks, Latent Dirichlet Allocation, Topic Modeling  
-     [ ] LSTM Networks
+     - [ ] LSTM Networks
 9. **Reinforcement** - Markov chains, Monte Carlo, Markov Decision Processes  
-     [ ] Game Bot 
+     - [ ] Game Bot 
 10. **Quantum Machine Learning**
 
 
