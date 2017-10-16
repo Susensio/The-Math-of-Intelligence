@@ -31,6 +31,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 * numpy
 * matplotlib
 * scipy
+* pandas
 
 ## Credits
 
